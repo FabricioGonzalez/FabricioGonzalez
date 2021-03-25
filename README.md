@@ -1,4 +1,5 @@
-![alt text](https://github.com/FabricioGonzalez/FabricioGonzalez/blob/main/paginaprincipal.png?raw=true)
+![Imagem de perfil](https://github.com/FabricioGonzalez/FabricioGonzalez/blob/main/paginaprincipal.png?raw=true)
+[![homepage](https://github.com/FabricioGonzalez/FabricioGonzalez/blob/main/linkedin.png)](https://www.linkedin.com/in/fabricio-gonzalez-fran%C3%A7a-ribeiro-3b642a17a/ "Redirect to profile on linkedIn")
 <!--
 **FabricioGonzalez/FabricioGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
