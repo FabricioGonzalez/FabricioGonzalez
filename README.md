@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://github.com/FabricioGonzalez/FabricioGonzalez/blob/main/pagina principal.png?raw=true)
+![alt text](https://github.com/FabricioGonzalez/FabricioGonzalez/blob/main/paginaprincipal.png?raw=true)
 <!--
 **FabricioGonzalez/FabricioGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
